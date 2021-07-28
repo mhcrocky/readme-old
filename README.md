@@ -13,7 +13,7 @@
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToVinhKhang&count_private=true&include_all_commits=true&theme=radical" />
 </details>
 
-[skype]: https://www.instagram.com/vkent_/
+[skype]: https://join.skype.com/invite/ydztX7CPKJkZ
 [gmail]: mailto:aktwork7@gmail.com
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aktwork&theme=github)

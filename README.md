@@ -3,7 +3,7 @@
 ![Activity Graph](https://github-readme-stats.vercel.app/api?username=aktwork&count_private=true)
 
 <details>
-  <summary>Show GitHub Stats</summary>
+  <summary>Show GitHub Contribution Graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=aktwork&theme=github" />
 </details>
 

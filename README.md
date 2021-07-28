@@ -10,14 +10,8 @@
 ---
 <details>
   <summary>Show GitHub Stats</summary>
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToVinhKhang&count_private=true&include_all_commits=true&theme=radical" />
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aktwork&theme=github)
 </details>
 
 [gmail]: mailto:aktwork7@gmail.com
 [skype]: https://join.skype.com/invite/ydztX7CPKJkZ
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aktwork&theme=github)
-
-```
- N.........................................
-```

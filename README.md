@@ -1,10 +1,10 @@
 ### My Github activity
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=upcoder0910&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upcoder0910&layout=compact)](https://github.com/upcoder0910)
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=jdkeds&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdkeds&layout=compact)](https://github.com/jdkeds)
 <details>
   <summary>Show GitHub Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=aktwork&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=jdkeds&theme=github" />
 </details>
 
 ## CONTACTS

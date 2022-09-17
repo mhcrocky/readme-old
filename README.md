@@ -15,5 +15,5 @@
 ---
 
 
-[gmail]: mailto:aktwork7@gmail.com
-[skype]: https://join.skype.com/invite/ydztX7CPKJkZ
+[gmail]: mailto:larastar721@gmail.com
+[skype]: https://join.skype.com/invite/

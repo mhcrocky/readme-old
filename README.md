@@ -5,6 +5,7 @@
 <details>
   <summary>Show GitHub Contribution Graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=jdkeds&theme=github" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdkeds&theme=chartreuse-dark" alt="rc-chuah" /></p>
 </details>
 
 ## CONTACTS

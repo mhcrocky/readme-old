@@ -2,6 +2,8 @@
 
 ![Activity Graph](https://github-readme-stats.vercel.app/api?username=jdkeds&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdkeds&layout=compact)](https://github.com/jdkeds)
+[![Status](https://github-readme-streak-stats.herokuapp.com/?user=jdkeds&theme=chartreuse-dark)](https://github.com/jdkeds)
+
 <details>
   <summary>Show GitHub Contribution Graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=jdkeds&theme=github" />

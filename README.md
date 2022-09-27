@@ -1,11 +1,11 @@
 ### My Github activity
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=jdkeds&count_private=true)
-[![Status](https://github-readme-streak-stats.herokuapp.com/?user=jdkeds&theme=chartreuse-dark)](https://github.com/jdkeds)
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=mhcrocky&count_private=true)
+[![Status](https://github-readme-streak-stats.herokuapp.com/?user=mhcrocky&theme=chartreuse-dark)](https://github.com/jdkeds)
 
 <details>
   <summary>Show GitHub Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=jdkeds&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mhcrocky&theme=github" />
 </details>
 
 ## CONTACTS
@@ -19,6 +19,6 @@
 ---
 
 
-[Gmail]: mailto:larastar721@gmail.com
+[Gmail]: mailto:mhcrocky@gmail.com
 [Skype]: https://join.skype.com/invite/
-[Discord]: https://doscord.com/_A_#3773
+[Discord]: https://doscord.com/mhcrocky#3773

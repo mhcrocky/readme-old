@@ -1,8 +1,4 @@
 ### My Github activity
-
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=mhcrocky&count_private=true)
-[![Status](https://github-readme-streak-stats.herokuapp.com/?user=mhcrocky&theme=chartreuse-dark)](https://github.com/jdkeds)
-
 <details>
   <summary>Show GitHub Contribution Graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=mhcrocky&theme=github" />

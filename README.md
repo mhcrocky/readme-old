@@ -5,7 +5,7 @@
 <p align="center"> 
 <a href="https://dev.to/mhcrocky"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 &nbsp;
-<a href="https://github.com/mhcrocky"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://github.com/mhcatty"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
 <a href="https://t.me/mhcrocky"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 &nbsp;

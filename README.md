@@ -1,9 +1,9 @@
 <p align="center"> 
-   <a href="https://github.com/mhcrocky"><img src="https://count.getloli.com/get/@mhcrocky?theme=asoul" /></a>
+   <a href="https://github.com/mhcatty"><img src="https://count.getloli.com/get/@mhcrocky?theme=asoul" /></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=header" height="100" />
 <p align="center"> 
-<a href="https://dev.to/mhcrocky"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+<a href="https://bahrooz.vercel.zpp"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 &nbsp;
 <a href="https://github.com/mhcatty"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;

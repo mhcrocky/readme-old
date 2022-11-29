@@ -1,5 +1,5 @@
 <p align="center"> 
-   <a href="https://github.com/mhcatty"><img src="https://count.getloli.com/get/@mhcrocky?theme=asoul" /></a>
+   jjj
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=header" height="100" />
 <p align="center"> 

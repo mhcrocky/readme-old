@@ -1,5 +1,5 @@
 <p align="center"> 
-   <img src="https://github.com/mhcatty/mhcatty/blob/master/avatar/ava.png?raw=true" height="100" />
+   <img src="https://github.com/mhcatty/mhcatty/blob/master/avatar/ava.pg?raw=true" height="100" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=header" height="100" />
 <p align="center"> 
